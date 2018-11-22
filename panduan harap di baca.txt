@@ -1,0 +1,5 @@
+nama url //http://localhos/penjualan
+username :P0001
+password :user
+
+db :resto
